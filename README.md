@@ -6,4 +6,4 @@ We make use of github pages and jekyll, but use a custom build and push a gh-pag
 
 ## Build status
 
-[![Build Status](https://dev.azure.com/bepug/website/_apis/build/status/BEPUG.website)](https://dev.azure.com/bepug/website/_build/latest?definitionId=2)
+[![Build Status](https://dev.azure.com/bepug/bepugwebsite/_apis/build/status/BEPUG.bepug.github.io)](https://dev.azure.com/bepug/bepugwebsite/_build/latest?definitionId=3)
