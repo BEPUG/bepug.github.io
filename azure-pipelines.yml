@@ -1,9 +1,15 @@
+trigger:
+  branches:
+    include:
+    - dev
+  paths:
+    exclude:
+    - README.md
 queue:
   name: Hosted Ubuntu 1604
 steps:
 - task: UseRubyVersion@0
   displayName: 'Use Ruby >= 2.4'
-
 
 - powershell: 'gem install bundler'
   displayName: 'install bundler'
