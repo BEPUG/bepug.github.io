@@ -21,16 +21,9 @@ If you have any questions, just reach out to any of the [organizers](/about#Orga
 ## Upcoming events
 
 {% capture notice-text %}
-**2018-09-27 - September meetup**
+We are in the planning phase for another BEPUG meetup and are looking at a mid-December timeframe.
 
-- Infrastructure-as-Code: VSTS, Azure and the glue of PowerShell by [Jeff Wouters](https://twitter.com/jeffwouters)
-- Azure Cloud Shell and SHiPS by [Steven Taylor](https://twitter.com/Torch02)
-- Stick to the full potential of PowerShell by [Christof Van Geendertaelen](https://twitter.com/cvangeendert)
-- Function ctrl-c {} by [Merlijn Van Waeyenberghe](https://twitter.com/merlin_with_a_j)
-- Too late for a complex ARM template by [Ivo Haagen](https://twitter.com/ivohaagen89)
-
-Hosted at [Xylos](https://xylos.be) <br />
-[Register here!](https://bepug.eventbrite.com){: .btn btn--large .btn--info}
+[Want to speak?](https://github.com/BEPUG/meetups/issues/new?template=Session-proposal.md){: .btn btn--large .btn--info} [Suggest a location](https://github.com/BEPUG/meetups/issues/new?template=Location-proposal.md){: .btn btn--large .btn--info}
 {% endcapture %}
 
 <div class="notice--primary">
