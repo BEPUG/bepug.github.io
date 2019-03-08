@@ -1,11 +1,72 @@
 <!-- start custom head snippets -->
-<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed|Roboto+Mono|Roboto+Slab:300,400|Roboto:300" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed|Roboto+Mono|Roboto+Slab:300,400|Roboto:300"
+    rel="stylesheet">
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 <link rel="apple-touch-icon" sizes="180x180" href="assets/images/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon-16x16.png">
-<link rel="icon" type="image/x-icon" href="assets/images/favicon.ico"  />
+<link rel="icon" type="image/x-icon" href="assets/images/favicon.ico" />
 <link rel="manifest" href="/site.webmanifest">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 <!-- end custom head snippets -->
+<link rel="stylesheet" type="text/css"
+    href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+    window['ga-disable-{{ site.analytics.google.tracking_id }}'] = false;
+    var trackPageView = function (consentGiven) {
+        window['ga-disable-{{ site.analytics.google.tracking_id }}'] = !consentGiven;
+        if (consentGiven) {
+            ga('create', '{{ site.analytics.google.tracking_id }}', 'auto');
+            ga('send', 'pageview');
+        }
+    };
+    window.addEventListener("load", function () {
+        window.cookieconsent.initialise({
+            "palette": {
+                "popup": {
+                    "background": "#898c8f",
+                    "text": "#f2f3f3"
+                },
+                "button": {
+                    "background": "#52adc8",
+                    "text": "#f2f3f3"
+                }
+            },
+            "theme": "classic",
+            "type": "opt-out",
+            onInitialise: function (status) {
+                var type = this.options.type;
+                var didConsent = this.hasConsented();
+                if (type == 'opt-in' && didConsent) {
+                    trackPageView(true)
+                }
+                if (type == 'opt-out' && !didConsent) {
+                    trackPageView(false)
+                }
+            },
+
+            onStatusChange: function (status, chosenBefore) {
+                var type = this.options.type;
+                var didConsent = this.hasConsented();
+                if (type == 'opt-in' && didConsent) {
+                    trackPageView(true)
+                }
+                if (type == 'opt-out' && !didConsent) {
+                    trackPageView(false)
+                }
+            },
+
+            onRevokeChoice: function () {
+                var type = this.options.type;
+                if (type == 'opt-in') {
+                    trackPageView(true)
+                }
+                if (type == 'opt-out') {
+                    trackPageView(false)
+                }
+            }
+        })
+    });
+</script>
