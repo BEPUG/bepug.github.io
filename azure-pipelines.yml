@@ -20,7 +20,7 @@ steps:
 - powershell: 'bundle exec jekyll build --future -d $(Build.ArtifactStagingDirectory)'
   displayName: 'build jekyll site'
 
-- powershell: 'Copy-Item -Path .\CNAME -Destination www\CNAME'
+- powershell: 'Copy-Item -Path .\CNAME -Destination .\www'
   displayName: 'add CNAME'
 
 - task: PublishBuildArtifacts@1
