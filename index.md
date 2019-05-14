@@ -8,10 +8,9 @@ excerpt: "Bepug all the way"
 <br />
 
 ![image-left]({{ "/assets/images/avatarfull.png" | relative_url }}){: .align-left}
-The Belgian PowerShell user group (BEPUG) brings Belgian PowerShell enthousiast together.
-Our goal is bring people with a powershell interest together so we stimulate learning in a social and open environment.
+The Belgian PowerShell User Group (BEPUG) has the goal to bring together PowerShell enthousiasts and to stimulate learning in a social and open environment.
 
-To support the openness we adopted a [code of conduct](/conduct).
+To underline our open culture, we adopted a [code of conduct](/conduct).
 
 If you have any questions, just reach out to any of the [organizers](/about#Organizers).
 <br />
@@ -23,8 +22,8 @@ If you have any questions, just reach out to any of the [organizers](/about#Orga
 {% capture notice-text %}
 **2019-05-22 - May meetup**
 
-- TBD by [Aleksandar Nikolić](https://twitter.com/alexandair)
-- TBD by [Merlijn Van Waeyenberghe](https://twitter.com/merlinfrombe)
+- __PowerShell Core: Benefits and challenges__ by [Aleksandar Nikolić](https://twitter.com/alexandair)
+- __Build GUIs to make your code look super expensive__ by [Merlijn Van Waeyenberghe](https://twitter.com/merlinfrombe)
 
 Hosted at [Cheops (Antwerp offices)](https://www.cheops.com/) <br />
 [Register here!](https://bepug.eventbrite.com){: .btn btn--large .btn--info}
