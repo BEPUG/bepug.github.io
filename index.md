@@ -21,7 +21,13 @@ If you have any questions, just reach out to any of the [organizers](/about#Orga
 ## Upcoming events
 
 {% capture notice-text %}
-We are in the planning phase for another BEPUG meetup and are looking at a mid-December timeframe.
+**2019-05-22 - May meetup**
+
+- TBD by [Aleksandar Nikolić](https://twitter.com/alexandair)
+- TBD by [Merlijn Van Waeyenberghe](https://twitter.com/merlinfrombe)
+
+Hosted at [Cheops (Antwerp offices)](https://www.cheops.com/) <br />
+[Register here!](https://bepug.eventbrite.com){: .btn btn--large .btn--info}
 
 [Want to speak?](https://github.com/BEPUG/meetups/issues/new?template=Session-proposal.md){: .btn btn--large .btn--info} [Suggest a location](https://github.com/BEPUG/meetups/issues/new?template=Location-proposal.md){: .btn btn--large .btn--info}
 {% endcapture %}
