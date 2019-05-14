@@ -18,6 +18,14 @@ feature_organizers:
       Github:  [stijnc](https://github.com/stijnc) <br />
       Other: [callebaut.io](https://callebaut.io)
     '
+  - image_path: /assets/images/merlijn.jpg
+    image_caption: "Merlijn Van Waeyenberghe "
+    alt: "Merlijn Van Waeyenberghe"
+    title: "Merlijn Van Waeyenberghe"
+    excerpt: 'Twitter: [@merlinfrombe](https://twitter.com/merlinfrombe) <br />
+      LinkedIn: [merlinvw](https://www.linkedin.com/in/merlinvw/) <br />
+      Github:  [merlinfrombelgium](https://github.com/merlinfrombelgium) <br />
+    '
 feature_allumini:
   - image_path: /assets/images/luc.jpg
     image_caption: "Luc Dekens"
