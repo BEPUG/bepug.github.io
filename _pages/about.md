@@ -26,7 +26,7 @@ feature_organizers:
       LinkedIn: [merlinvw](https://www.linkedin.com/in/merlinvw/) <br />
       Github:  [merlinfrombelgium](https://github.com/merlinfrombelgium) <br />
     '
-feature_allumini:
+feature_alumni:
   - image_path: /assets/images/luc.jpg
     image_caption: "Luc Dekens"
     alt: "Luc Dekens"
@@ -45,15 +45,14 @@ feature_allumini:
     '
 ---
 
-The Belgian PowerShell user group (BEPUG) brings Belgian PowerShell enthousiast together.
-Our goal is bring people with a powershell interest together so we stimulate learning in a social and open environment.
+The Belgian PowerShell User Group (BEPUG) has the goal to bring together PowerShell enthousiasts and to stimulate learning in a social and open environment.
 
-To support the openness we adopted a code of conduct.
+To underline our open culture, we adopted a [code of conduct](https://github.com/BEPUG/meetups/blob/master/.github/CODE_OF_CONDUCT.md).
 
 ## Organizers
 
 {% include feature_row id="feature_organizers" type="left" %}
 
-## Alumini
+## Alumni
 
-{% include feature_row id="feature_allumini" type="left" %}
+{% include feature_row id="feature_alumni" type="left" %}
