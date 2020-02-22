@@ -20,12 +20,15 @@ If you have any questions, just reach out to any of the [organizers](/about#Orga
 ## Upcoming events
 
 {% capture notice-text %}
-**2019-05-22 - May meetup**
+**2020-03-11 - March meetup**
 
-- __PowerShell Core: Benefits and challenges__ by [Aleksandar Nikolić](https://twitter.com/alexandair)
-- __Build GUIs to make your code look super expensive__ by [Merlijn Van Waeyenberghe](https://twitter.com/merlinfrombe)
+- __Modernizing PowerShell Scripts__ by [Matthias van den Elsacker](https://sessionize.com/Matthias-vdE/)
+- 2nd session to be announced soon
 
-Hosted at [Cheops (Antwerp offices)](https://www.cheops.com/) <br />
+Introducing peer to peer learning sessions open to all new PowerShell enthousiasts. Bring your laptop and show us the PowerShell challenge you're struggling with. We'll do our best to help you understand the concepts and guide you through some best practices of coding in PowerShell.
+After all, that's what a user group is about :)
+
+Hosted at [ob-V-us HQ](https://www.obvus.be/) <br />
 [Register here!](https://bepug.eventbrite.com){: .btn btn--large .btn--info}
 
 [Want to speak?](https://github.com/BEPUG/meetups/issues/new?template=Session-proposal.md){: .btn btn--large .btn--info} [Suggest a location](https://github.com/BEPUG/meetups/issues/new?template=Location-proposal.md){: .btn btn--large .btn--info}
