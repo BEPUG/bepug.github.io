@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://bepug.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://bepug.github.io/" rel="alternate" type="text/html" /><updated>2020-03-11T21:08:18+00:00</updated><id>https://bepug.github.io/feed.xml</id><title type="html">BEPUG</title><subtitle>Belgian PowerShell user group</subtitle><author><name>BEPUG</name></author><entry><title type="html">March 11, 2020 meetup</title><link href="https://bepug.github.io/meetup/2020/03/11/meetup/" rel="alternate" type="text/html" title="March 11, 2020 meetup" /><published>2020-03-11T00:00:00+00:00</published><updated>2020-03-11T00:00:00+00:00</updated><id>https://bepug.github.io/meetup/2020/03/11/meetup</id><content type="html" xml:base="https://bepug.github.io/meetup/2020/03/11/meetup/">&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Modernizing PowerShell Scripts&lt;/strong&gt; by &lt;a href=&quot;https://sessionize.com/Matthias-vdE/&quot;&gt;Matthias van den Elsacker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Git(Hub) 101&lt;/strong&gt; by &lt;a href=&quot;https://bepug.dev/about&quot;&gt;Stijn &amp;amp; Merlijn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Introducing peer to peer learning sessions open to all new PowerShell enthousiasts. Bring your laptop and show us the PowerShell challenge you’re struggling with. We’ll do our best to help you understand the concepts and guide you through some best practices of coding in PowerShell.
+After all, that’s what a user group is about :)&lt;/p&gt;
+
+&lt;p&gt;Hosted at &lt;a href=&quot;https://www.obvus.be/&quot;&gt;ob-V-us&lt;/a&gt; &lt;a href=&quot;https://goo.gl/maps/7UB1wkgLrJauHb8k6&quot;&gt;(Diegem)&lt;/a&gt;
+&lt;a href=&quot;https://bepug.eventbrite.com&quot; class=&quot;btn btn--info&quot;&gt;Register here!&lt;/a&gt;&lt;/p&gt;</content><author><name>BEPUG</name></author><summary type="html">Modernizing PowerShell Scripts by Matthias van den Elsacker Git(Hub) 101 by Stijn &amp;amp; Merlijn</summary></entry><entry><title type="html">May 22, 2019 meetup</title><link href="https://bepug.github.io/meetup/2019/05/22/meetup/" rel="alternate" type="text/html" title="May 22, 2019 meetup" /><published>2019-05-22T00:00:00+00:00</published><updated>2019-05-22T00:00:00+00:00</updated><id>https://bepug.github.io/meetup/2019/05/22/meetup</id><content type="html" xml:base="https://bepug.github.io/meetup/2019/05/22/meetup/">&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;PowerShell Core: Benefits and challenges&lt;/strong&gt; by &lt;a href=&quot;https://twitter.com/alexandair&quot;&gt;Aleksandar Nikolić&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Build GUIs to make your code look super expensive&lt;/strong&gt; by &lt;a href=&quot;https://twitter.com/merlinfrombe&quot;&gt;Merlijn Van Waeyenberghe&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hosted at &lt;a href=&quot;https://www.cheops.com/&quot;&gt;Cheops&lt;/a&gt; &lt;a href=&quot;https://www.google.be/maps?daddr=Prins+Boudewijnlaan+49+2650+Edegem&quot;&gt;(Antwerp offices)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.eventbrite.com/e/bepug-meetup-may-22-2019-tickets-61906223180&quot; class=&quot;btn btn--info&quot;&gt;Register here!&lt;/a&gt;&lt;/p&gt;</content><author><name>BEPUG</name></author><summary type="html">PowerShell Core: Benefits and challenges by Aleksandar Nikolić Build GUIs to make your code look super expensive by Merlijn Van Waeyenberghe</summary></entry><entry><title type="html">September 27, 2018 meetup</title><link href="https://bepug.github.io/meetup/2018/09/27/meetup/" rel="alternate" type="text/html" title="September 27, 2018 meetup" /><published>2018-09-27T00:00:00+00:00</published><updated>2018-09-27T00:00:00+00:00</updated><id>https://bepug.github.io/meetup/2018/09/27/meetup</id><content type="html" xml:base="https://bepug.github.io/meetup/2018/09/27/meetup/">&lt;ul&gt;
+  &lt;li&gt;Infrastructure-as-Code: VSTS, Azure and the glue of PowerShell by &lt;a href=&quot;https://twitter.com/jeffwouters&quot;&gt;Jeff Wouters&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Azure Cloud Shell and SHiPS by &lt;a href=&quot;https://twitter.com/Torch02&quot;&gt;Steven Taylor&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Stick to the full potential of PowerShell by &lt;a href=&quot;https://twitter.com/cvangeendert&quot;&gt;Christof Van Geendertaelen&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Function ctrl-c {} by &lt;a href=&quot;https://twitter.com/merlin_with_a_j&quot;&gt;Merlijn Van Waeyenberghe&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Too late for a complex ARM template by &lt;a href=&quot;https://twitter.com/ivohaagen89&quot;&gt;Ivo Haagen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hosted at &lt;a href=&quot;https://xylos.be&quot;&gt;Xylos&lt;/a&gt;
+&lt;a href=&quot;https://bepug.eventbrite.com&quot; class=&quot;btn btn--info&quot;&gt;Register here!&lt;/a&gt;
+&lt;a href=&quot;https://github.com/BEPUG/meetups/tree/master/20180927&quot; class=&quot;btn btn--success&quot;&gt;Github slides and demo&lt;/a&gt;&lt;/p&gt;</content><author><name>BEPUG</name></author><summary type="html">Infrastructure-as-Code: VSTS, Azure and the glue of PowerShell by Jeff Wouters Azure Cloud Shell and SHiPS by Steven Taylor Stick to the full potential of PowerShell by Christof Van Geendertaelen Function ctrl-c {} by Merlijn Van Waeyenberghe Too late for a complex ARM template by Ivo Haagen</summary></entry><entry><title type="html">June 7, 2018 meetup</title><link href="https://bepug.github.io/meetup/2018/06/07/meetup/" rel="alternate" type="text/html" title="June 7, 2018 meetup" /><published>2018-06-07T00:00:00+00:00</published><updated>2018-06-07T00:00:00+00:00</updated><id>https://bepug.github.io/meetup/2018/06/07/meetup</id><content type="html" xml:base="https://bepug.github.io/meetup/2018/06/07/meetup/">&lt;ul&gt;
+  &lt;li&gt;Moving Your DSC Pull Server into the future by &lt;a href=&quot;https://twitter.com/bgelens&quot;&gt;Ben Gelens&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Flexible PowerShell logging without reinventing the wheel by &lt;a href=&quot;https://twitter.com/thewmiguy&quot;&gt;Kim Oppalfens&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;My PowerShell development aids, &lt;a href=&quot;https://twitter.com/stijnca&quot;&gt;Stijn Callebaut&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hosted at &lt;a href=&quot;https://itnetx.be&quot;&gt;itnetX Belgium&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://bepug.eventbrite.com&quot; class=&quot;btn btn--info&quot;&gt;Register here!&lt;/a&gt;
+&lt;a href=&quot;https://github.com/BEPUG/meetups/tree/master/20180607&quot; class=&quot;btn btn--success&quot;&gt;Github slides and demo&lt;/a&gt;&lt;/p&gt;</content><author><name>BEPUG</name></author><summary type="html">Moving Your DSC Pull Server into the future by Ben Gelens Flexible PowerShell logging without reinventing the wheel by Kim Oppalfens My PowerShell development aids, Stijn Callebaut</summary></entry></feed>

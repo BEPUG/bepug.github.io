@@ -1,0 +1,365 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.13.0 by Michael Rose
+  Copyright 2013-2018 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE.txt
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>BEPUG - BEPUG</title>
+<meta name="description" content="Bepug all the way">
+
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="BEPUG">
+<meta property="og:title" content="BEPUG">
+<meta property="og:url" content="https://bepug.github.io/">
+
+
+  <meta property="og:description" content="Bepug all the way">
+
+
+
+  <meta property="og:image" content="https://bepug.github.io/assets/images/bepuglogosmall.png">
+
+
+
+  <meta name="twitter:site" content="@bepowershell">
+  <meta name="twitter:title" content="BEPUG">
+  <meta name="twitter:description" content="Bepug all the way">
+  <meta name="twitter:url" content="https://bepug.github.io/">
+
+  
+    <meta name="twitter:card" content="summary">
+    
+      <meta name="twitter:image" content="https://bepug.github.io/assets/images/bepuglogosmall.png">
+    
+  
+
+  
+
+
+
+
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="https://bepug.github.io/">
+
+
+
+
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "url": "https://bepug.github.io",
+      "logo": "https://bepug.github.io/assets/images/bepuglogosmall.png"
+    }
+  </script>
+
+
+
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "name": "BEPUG",
+      "url": "https://bepug.github.io",
+      "sameAs": "https://twitter.com/bepowershell"
+    }
+  </script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="BEPUG Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+
+<!--[if lte IE 9]>
+  <style>
+    /* old IE unsupported flexbox fixes */
+    .greedy-nav .site-title {
+      padding-right: 3em;
+    }
+    .greedy-nav button {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+  </style>
+<![endif]-->
+
+
+    <!-- start custom head snippets -->
+<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed|Roboto+Mono|Roboto+Slab:300,400|Roboto:300"
+    rel="stylesheet">
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+<link rel="apple-touch-icon" sizes="180x180" href="assets/images/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon-16x16.png">
+<link rel="icon" type="image/x-icon" href="assets/images/favicon.ico" />
+<link rel="manifest" href="/site.webmanifest">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<!-- end custom head snippets -->
+<link rel="stylesheet" type="text/css"
+    href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
+<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
+<script>
+    window['ga-disable-UA-126029487-1'] = false;
+    var trackPageView = function (consentGiven) {
+        window['ga-disable-UA-126029487-1'] = !consentGiven;
+        if (consentGiven) {
+            ga('create', 'UA-126029487-1', 'auto');
+            ga('send', 'pageview');
+        }
+    };
+    window.addEventListener("load", function () {
+        window.cookieconsent.initialise({
+            "palette": {
+                "popup": {
+                    "background": "#898c8f",
+                    "text": "#f2f3f3"
+                },
+                "button": {
+                    "background": "#52adc8",
+                    "text": "#f2f3f3"
+                }
+            },
+            "theme": "classic",
+            "type": "opt-out",
+            onInitialise: function (status) {
+                var type = this.options.type;
+                var didConsent = this.hasConsented();
+                if (type == 'opt-in' && didConsent) {
+                    trackPageView(true)
+                }
+                if (type == 'opt-out' && !didConsent) {
+                    trackPageView(false)
+                }
+            },
+
+            onStatusChange: function (status, chosenBefore) {
+                var type = this.options.type;
+                var didConsent = this.hasConsented();
+                if (type == 'opt-in' && didConsent) {
+                    trackPageView(true)
+                }
+                if (type == 'opt-out' && !didConsent) {
+                    trackPageView(false)
+                }
+            },
+
+            onRevokeChoice: function () {
+                var type = this.options.type;
+                if (type == 'opt-in') {
+                    trackPageView(true)
+                }
+                if (type == 'opt-out') {
+                    trackPageView(false)
+                }
+            }
+        })
+    });
+</script>
+  </head>
+
+  <body class="layout--splash">
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+
+    <div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <a class="site-title" href="/">BEPUG</a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/events" >Events</a>
+            </li><li class="masthead__menu-item">
+              <a href="/about" >About</a>
+            </li><li class="masthead__menu-item">
+              <a href="https://github.com/BEPUG" >Github</a>
+            </li><li class="masthead__menu-item">
+              <a href="https://github.com/BEPUG/meetups/issues/new?template=Session-proposal.md" >Become a speaker</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle Menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+<div id="main" role="main">
+  <article class="splash" itemscope itemtype="http://schema.org/CreativeWork">
+    <meta itemprop="headline" content="BEPUG">
+    <meta itemprop="description" content="Bepug all the way">
+    
+    
+
+    <section class="page__content" itemprop="text">
+      <p><br /></p>
+
+<p><img src="/assets/images/avatarfull.png" alt="image-left" class="align-left" />
+The Belgian PowerShell User Group (BEPUG) has the goal to bring together PowerShell enthousiasts and to stimulate learning in a social and open environment.</p>
+
+<p>To underline our open culture, we adopted a <a href="/conduct">code of conduct</a>.</p>
+
+<p>If you have any questions, just reach out to any of the <a href="/about#Organizers">organizers</a>.
+<br />
+<br />
+<br /></p>
+
+<h2 id="upcoming-events">Upcoming events</h2>
+
+<div class="notice--primary">
+  
+<p><strong>2020-03-11 - March meetup</strong></p>
+
+<ul>
+  <li><strong>Modernizing PowerShell Scripts</strong> by <a href="https://sessionize.com/Matthias-vdE/">Matthias van den Elsacker</a></li>
+  <li>2nd session to be announced soon</li>
+</ul>
+
+<p>Introducing peer to peer learning sessions open to all new PowerShell enthousiasts. Bring your laptop and show us the PowerShell challenge you’re struggling with. We’ll do our best to help you understand the concepts and guide you through some best practices of coding in PowerShell.
+After all, that’s what a user group is about :)</p>
+
+<p>Hosted at <a href="https://www.obvus.be/">ob-V-us HQ</a> <br />
+<a href="https://bepug.eventbrite.com" class="btn btn--info">Register here!</a></p>
+
+<p><a href="https://github.com/BEPUG/meetups/issues/new?template=Session-proposal.md" class="btn btn--info">Want to speak?</a> <a href="https://github.com/BEPUG/meetups/issues/new?template=Location-proposal.md" class="btn btn--info">Suggest a location</a></p>
+
+</div>
+
+<h2 id="join-the-mailing-list">Join the mailing list</h2>
+
+<div id="mc_embed_signup"><form id="mc-embedded-subscribe-form" class="validate" action="https://github.us19.list-manage.com/subscribe/post?u=6e99ec2454950d642390b574f&amp;id=0dd16578ab" method="post" style="background-color: #FFFFFF;">
+<table cellspacing="2" cellpadding="2" style="border: 0px;">
+<tbody>
+<tr>
+<td style="border: 0px"><input id="mce-EMAIL" name="EMAIL" type="text" placeholder="Your e-mail" /></td>
+<td style="border: 0px"><input id="mce-FNAME" name="FNAME" type="text" placeholder="Your firstname" /></td>
+<td style="border: 0px"><input id="mce-LNAME" name="LNAME" type="text" placeholder="Your lastname" /></td>
+</tr>
+<tr style="border: 0px">
+<td colspan="2" style="border: 0px"><p>You hearby confirm that your email may be used to inform you of all future events</p></td>
+<td style="text-align: right; border: 0px"><input id="mc-embedded-subscribe" class="btn btn--large btn--info" name="subscribe" type="submit" value="Subscribe" /></td>
+</tr>
+</tbody>
+</table>
+</form></div>
+
+
+    </section>
+  </article>
+</div>
+    </div>
+
+    
+
+    <div class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    
+
+    
+      
+        
+          <li><a href="https://twitter.com/bepowershell"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        
+      
+        
+          <li><a href="https://www.facebook.com/bepowershell/"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+        
+      
+        
+          <li><a href="https://github.com/bepug"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+        
+      
+        
+          <li><a href="https://www.linkedin.com/company/bepug/"><i class="fab fa-fw fa-linkedin-in" aria-hidden="true"></i> linkedIn</a></li>
+        
+      
+    
+
+    <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2020 BEPUG. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+  <script src="https://use.fontawesome.com/releases/v5.2.0/js/all.js"></script>
+
+
+
+
+
+
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-126029487-1', 'auto');
+  ga('set', 'anonymizeIp', true)
+  ga('send', 'pageview');
+</script>
+
+
+
+
+
+
+
+  </body>
+</html>
