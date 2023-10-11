@@ -9,14 +9,12 @@ sidebar:
     image: /assets/images/bepuglogo200.png
     image_alt: "image"
 feature_organizers:
-  - image_path: /assets/images/stijn.png
-    image_caption: "Stijn Callebaut"
-    alt: "Stijn Callebaut"
-    title: "Stijn Callebaut"
-    excerpt: 'Twitter: [@stijnca](https://www.twitter.com/stijnca) <br />
-      LinkedIn: [Stijncallebaut](https://www.linkedin.com/in/stijn-callebaut-8677443/) <br />
-      Github:  [stijnc](https://github.com/stijnc) <br />
-      Other: [callebaut.io](https://callebaut.io)
+  - image_path: /assets/images/Xavier.png
+    image_caption: "Xavier Clinquart"
+    alt: "Xavier Clinquart"
+    title: "Xavier Clinquart"
+    excerpt: 'LinkedIn: [XavierClinquart](https://www.linkedin.com/in/xavier-clinquart-722665a5/) <br />
+      Github:  [KoalaScripts](https://github.com/KoalaScripts) <br />
     '
   - image_path: /assets/images/merlijn.jpg
     image_caption: "Merlijn Van Waeyenberghe "
@@ -42,6 +40,15 @@ feature_alumni:
     excerpt: 'Twitter: [@cl](https://www.twitter.com/cl) <br />
       Blog: [netnerds.net](https://blog.netnerds.net/author/chrissy/) <br />
       Github:  [potatoqualitee](https://github.com/potatoqualitee)
+    '
+  - image_path: /assets/images/stijn.png
+    image_caption: "Stijn Callebaut"
+    alt: "Stijn Callebaut"
+    title: "Stijn Callebaut"
+    excerpt: 'Twitter: [@stijnca](https://www.twitter.com/stijnca) <br />
+      LinkedIn: [Stijncallebaut](https://www.linkedin.com/in/stijn-callebaut-8677443/) <br />
+      Github:  [stijnc](https://github.com/stijnc) <br />
+      Other: [callebaut.io](https://callebaut.io)
     '
 ---
 
