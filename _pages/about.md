@@ -9,7 +9,7 @@ sidebar:
     image: /assets/images/bepuglogo200.png
     image_alt: "image"
 feature_organizers:
-  - image_path: /assets/images/Xavier.png
+  - image_path: /assets/images/Xavier.jpg
     image_caption: "Xavier Clinquart"
     alt: "Xavier Clinquart"
     title: "Xavier Clinquart"

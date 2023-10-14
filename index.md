@@ -20,15 +20,15 @@ If you have any questions, just reach out to any of the [organizers](/about#Orga
 ## Upcoming events
 
 {% capture notice-text %}
-**2020-03-11 - March meetup**
+**29-02-2023 - Februari meetup**
 
-- __Modernizing PowerShell Scripts__ by [Matthias van den Elsacker](https://sessionize.com/Matthias-vdE/)
+- __Opening notes and talk__ by [Merlijn Van Waeyenberghe](https://www.linkedin.com/in/merlinvw/) & [XavierClinquart](https://www.linkedin.com/in/xavier-clinquart-722665a5/)
 - 2nd session to be announced soon
 
-Introducing peer to peer learning sessions open to all new PowerShell enthousiasts. Bring your laptop and show us the PowerShell challenge you're struggling with. We'll do our best to help you understand the concepts and guide you through some best practices of coding in PowerShell.
-After all, that's what a user group is about :)
+Introducing peer-to-peer learning sessions, open to all new PowerShell enthusiasts! Bring your laptop and share the PowerShell challenge you're currently grappling with. We're here to assist you in grasping the core concepts and steer you towards best practices in PowerShell coding. 
+Moreover, these sessions provide an excellent opportunity for networking and getting to know other PowerShell peers. After all, that's what a user group is all about!  :)
 
-Hosted at [ob-V-us HQ](https://www.obvus.be/) <br />
+Hosted at [Axxes HQ](https://www.axxes.com/) <br />
 [Register here!](https://bepug.eventbrite.com){: .btn btn--large .btn--info}
 
 [Want to speak?](https://github.com/BEPUG/meetups/issues/new?template=Session-proposal.md){: .btn btn--large .btn--info} [Suggest a location](https://github.com/BEPUG/meetups/issues/new?template=Location-proposal.md){: .btn btn--large .btn--info}
