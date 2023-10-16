@@ -20,7 +20,7 @@ If you have any questions, just reach out to any of the [organizers](/about#Orga
 ## Upcoming events
 
 {% capture notice-text %}
-**29-02-2023 - Februari meetup**
+**29-02-2024 - Februari meetup**
 
 - __Opening notes and talk__ by [Merlijn Van Waeyenberghe](https://www.linkedin.com/in/merlinvw/) & [XavierClinquart](https://www.linkedin.com/in/xavier-clinquart-722665a5/)
 - 2nd session to be announced soon
