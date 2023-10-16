@@ -7,7 +7,7 @@ excerpt: "Bepug all the way"
 ---
 <br />
 
-![image-left]({{ "/assets/LOGO/RVB/rvb_logo-officiel-bepug.png" | relative_url }}){: .align-left width="25%" height="25%"}
+![image-left]({{ "/assets/LOGO/RVB/rvb_logo-officiel-bepug-350.png" | relative_url }}){: .align-left}
 The Belgian PowerShell User Group (BEPUG) has the goal to bring together PowerShell enthousiasts and to stimulate learning in a social and open environment.
 
 To underline our open culture, we adopted a [code of conduct](/conduct).
