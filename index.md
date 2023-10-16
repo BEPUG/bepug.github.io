@@ -14,7 +14,9 @@ To underline our open culture, we adopted a [code of conduct](/conduct).
 
 If you have any questions, just reach out to any of the [organizers](/about#Organizers).
 <br />
-
+<br />
+<br />
+<br />
 ## Upcoming events
 
 {% capture notice-text %}
