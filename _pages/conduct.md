@@ -6,7 +6,7 @@ permalink: /conduct
 author_profile: false
 sidebar:
   - title: ""
-    image: /assets/LOGO/CMJN/logo-officiel-bepug.jpg
+    image: /assets/LOGO/RVB/rvb_logo-officiel-bepug.png
     image_alt: "image"
 ---
 ## 1. Purpose
