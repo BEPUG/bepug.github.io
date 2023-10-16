@@ -6,7 +6,7 @@ permalink: /
 excerpt: "Bepug all the way"
 ---
 <br />
-
+<section>
 ![image-left]({{ "/assets/LOGO/CMJN/logo-officiel-bepug.jpg" | relative_url }}){: .align-left}
 The Belgian PowerShell User Group (BEPUG) has the goal to bring together PowerShell enthousiasts and to stimulate learning in a social and open environment.
 
@@ -16,7 +16,7 @@ If you have any questions, just reach out to any of the [organizers](/about#Orga
 <br />
 <br />
 <br />
-
+</section>
 ## Upcoming events
 
 {% capture notice-text %}
