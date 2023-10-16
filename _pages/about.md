@@ -6,7 +6,7 @@ permalink: /about
 author_profile: false
 sidebar:
   - title: ""
-    image: /assets/images/bepuglogo200.png
+    image: /assets/LOGO/CMJN/logo-officiel-bepug.jpg
     image_alt: "image"
 feature_organizers:
   - image_path: /assets/images/Xavier.jpg
