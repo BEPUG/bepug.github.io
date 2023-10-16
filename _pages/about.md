@@ -21,7 +21,7 @@ feature_organizers:
     alt: "Merlijn Van Waeyenberghe"
     title: "Merlijn Van Waeyenberghe"
     excerpt: 'Twitter: [@merlinfrombe](https://twitter.com/merlinfrombe) <br />
-      LinkedIn: [merlinvw](https://www.linkedin.com/in/merlinvw/) <br />
+      LinkedIn: [merlinfrombelgium](https://www.linkedin.com/in/merlinfrombelgium/) <br />
       Github:  [merlinfrombelgium](https://github.com/merlinfrombelgium) <br />
     '
 feature_alumni:
