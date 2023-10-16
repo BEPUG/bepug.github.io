@@ -17,6 +17,8 @@ If you have any questions, just reach out to any of the [organizers](/about#Orga
 <br />
 <br />
 <br />
+<br />
+<br />
 ## Upcoming events
 
 {% capture notice-text %}
