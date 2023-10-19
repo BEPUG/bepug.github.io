@@ -24,7 +24,7 @@ If you have any questions, just reach out to any of the [organizers](/about#Orga
 {% capture notice-text %}
 **2024-01-30 - Januari meetup**
 
-- __Opening notes and talk__ by [Merlijn Van Waeyenberghe](https://www.linkedin.com/in/merlinvw/) & [XavierClinquart](https://www.linkedin.com/in/xavier-clinquart-722665a5/)
+- __Opening notes and talk__ by [Merlijn Van Waeyenberghe](https://www.linkedin.com/in/merlinvw/) & [Xavier Clinquart](https://www.linkedin.com/in/xavier-clinquart-722665a5/)
 - 2nd session to be announced soon
 
 Introducing peer-to-peer learning sessions, open to all new PowerShell enthusiasts! Bring your laptop and share the PowerShell challenge you're currently grappling with. We're here to assist you in grasping the core concepts and steer you towards best practices in PowerShell coding. 
