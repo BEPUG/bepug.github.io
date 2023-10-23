@@ -22,7 +22,7 @@ If you have any questions, just reach out to any of the [organizers](/about#Orga
 ## Upcoming events
 
 {% capture notice-text %}
-**2024-01-30 - Januari meetup**
+**2024-01-30 - January meetup**
 
 - __Opening notes and talk__ by [Merlijn Van Waeyenberghe](https://www.linkedin.com/in/merlinvw/) & [Xavier Clinquart](https://www.linkedin.com/in/xavier-clinquart-722665a5/)
 - 2nd session to be announced soon
