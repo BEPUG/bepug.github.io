@@ -33,7 +33,7 @@ Moreover, these sessions provide an excellent opportunity for networking and get
 Hosted at [Axxes HQ](https://www.axxes.com/) <br />
 [Register here!](https://bepug.eventbrite.com){: .btn btn--large .btn--info}
 
-[Want to speak?](https://github.com/BEPUG/meetups/issues/new?template=Session-proposal.md){: .btn btn--large .btn--info} [Suggest a location](https://github.com/BEPUG/meetups/issues/new?template=Location-proposal.md){: .btn btn--large .btn--info}
+[Want to speak?](https://sessionize.com/bepug){: .btn btn--large .btn--info} [Suggest a location](https://github.com/BEPUG/meetups/issues/new?template=Location-proposal.md){: .btn btn--large .btn--info}
 {% endcapture %}
 
 <div class="notice--primary">
