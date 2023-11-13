@@ -280,7 +280,7 @@ defaults:
       related: false
       sidebar:
       - title: ""
-        image: /assets/images/bepuglogo200.png
+        image: /assets/LOGO/RVB/rvb_logo-officiel-bepug.png
         image_alt: "image"
 
   # _pages
@@ -292,6 +292,6 @@ defaults:
       author_profile: false
       sidebar:
       - title: ""
-        image: /assets/images/bepuglogo200.png
+        image: /assets/LOGO/RVB/rvb_logo-officiel-bepug.png
         image_alt: "image"
   # _collections
