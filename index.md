@@ -22,7 +22,18 @@ If you have any questions, just reach out to any of the [organizers](/about#Orga
 ## Upcoming events
 
 {% capture notice-text %}
-**2024-01-30 - January meetup**
+**13/12/2023 - December Online meetup**
+
+- Opening notes by the organisers [Merlijn Van Waeyenberghe](https://www.linkedin.com/in/merlinvw/) & [Xavier Clinquart](https://www.linkedin.com/in/xavier-clinquart-722665a5/)
+- ChatGPT Meets PowerShell: Revolutionizing Command Line Interactions [Doug Finke](https://www.linkedin.com/in/douglasfinke/)
+
+Hosted Online on Gather! <br />
+[Register here!](https://bepug.odoo.com/event){: .btn btn--large .btn--info}
+
+
+{% endcapture %}
+{% capture notice-text %}
+**30/01/2024 - January meetup**
 
 - __Opening notes and talk__ by [Merlijn Van Waeyenberghe](https://www.linkedin.com/in/merlinvw/) & [Xavier Clinquart](https://www.linkedin.com/in/xavier-clinquart-722665a5/)
 - 2nd session to be announced soon
@@ -31,7 +42,7 @@ Introducing peer-to-peer learning sessions, open to all new PowerShell enthusias
 Moreover, these sessions provide an excellent opportunity for networking and getting to know other PowerShell peers. After all, that's what a user group is all about!  :)
 
 Hosted at [Axxes HQ](https://www.axxes.com/) <br />
-[Register here!](https://bepug.eventbrite.com){: .btn btn--large .btn--info}
+[Register here!](https://bepug.odoo.com/event){: .btn btn--large .btn--info}
 
 [Want to speak?](https://sessionize.com/bepug){: .btn btn--large .btn--info} [Suggest a location](https://github.com/BEPUG/meetups/issues/new?template=Location-proposal.md){: .btn btn--large .btn--info}
 {% endcapture %}
