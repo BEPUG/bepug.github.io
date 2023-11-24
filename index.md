@@ -31,8 +31,6 @@ Hosted Online on Gather! <br />
 [Register here!](https://bepug.odoo.com/event){: .btn btn--large .btn--info}
 
 
-{% endcapture %}
-{% capture notice-text %}
 **30/01/2024 - January meetup**
 
 - __Opening notes and talk__ by [Merlijn Van Waeyenberghe](https://www.linkedin.com/in/merlinvw/) & [Xavier Clinquart](https://www.linkedin.com/in/xavier-clinquart-722665a5/)
