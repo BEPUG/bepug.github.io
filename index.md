@@ -21,27 +21,18 @@ If you have any questions, just reach out to any of the [organizers](/about#Orga
 <br />
 ## Upcoming events
 
-{% capture notice-text %}
-**13/12/2023 - December Online meetup**
-
-- Opening notes by the organisers [Merlijn Van Waeyenberghe](https://www.linkedin.com/in/merlinvw/) & [Xavier Clinquart](https://www.linkedin.com/in/xavier-clinquart-722665a5/)
-- ChatGPT Meets PowerShell: Revolutionizing Command Line Interactions [Doug Finke](https://www.linkedin.com/in/douglasfinke/)
-
-Hosted Online on Gather! <br />
-
-[Register here!](https://bepug.odoo.com/event){: .btn btn--large .btn--info}
-
-
 
 **30/01/2024 - January meetup**
 
-- __Opening notes and talk__ by [Merlijn Van Waeyenberghe](https://www.linkedin.com/in/merlinvw/) & [Xavier Clinquart](https://www.linkedin.com/in/xavier-clinquart-722665a5/)
-- 2nd session to be announced soon
+- 17u30 - 18u30 : Opening reception with something to drink and a small bite
+- 18u30 - 19u15 : PowerShell & Microsoft Graph from Scratch
+            by [Merlijn Van Waeyenberghe](https://www.linkedin.com/in/merlinvw/) & [Xavier Clinquart](https://www.linkedin.com/in/xavier-clinquart-722665a5/)
+- 19u15 - 19u45 : Dinner break 
+- 19u45 - 20u30 : topic and speaker to be confirmed
+- 20u30 - ... : Networking and drinks
 
-Introducing peer-to-peer learning sessions, open to all new PowerShell enthusiasts! Bring your laptop and share the PowerShell challenge you're currently grappling with. We're here to assist you in grasping the core concepts and steer you towards best practices in PowerShell coding. 
-Moreover, these sessions provide an excellent opportunity for networking and getting to know other PowerShell peers. After all, that's what a user group is all about!  :)
 
-Hosted at [Axxes HQ](https://www.axxes.com/) <br />
+Hosted by [Axxes] at [Meetdistrict Ghent]](https://www.axxes.com/) <br />
 
 [Register here!](https://bepug.odoo.com/event){: .btn btn--large .btn--info}
 
