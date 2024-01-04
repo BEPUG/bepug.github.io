@@ -32,7 +32,7 @@ If you have any questions, just reach out to any of the [organizers](/about#Orga
 - 20u30 - ... : Networking and drinks
 
 
-Hosted by [Axxes] at [Meetdistrict Ghent]](https://www.axxes.com/) <br />
+Hosted by [Axxes](https://www.axxes.com/) at [Meetdistrict Ghent](https://www.meetdistrict.com/nl/meetdistrict/Gent) <br />
 
 [Register here!](https://bepug.odoo.com/event){: .btn btn--large .btn--info}
 
