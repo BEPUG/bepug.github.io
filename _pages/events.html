@@ -1,19 +1,5 @@
 ---
-layout: archive
 permalink: /events
-title: "Events"
-tagline: Belgian PowerShell User Group past events
-author_profile: false
-sidebar:
-  - title: ""
-    image: /assets/LOGO/RVB/rvb_logo-officiel-bepug.png
-    image_alt: "image"
+redirect_to:
+  - http://bepug.odoo.com/event
 ---
-
-{% include group-by-array collection=site.posts field="categories" %}
-
-{% assign posts = group_items[0] %}
-<h2 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h2>
-{% for post in posts %}
-  {% include archive-single.html %}
-{% endfor %}
