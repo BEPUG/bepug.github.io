@@ -22,7 +22,7 @@ If you have any questions, just reach out to any of the [organizers](/about#Orga
 ## Upcoming events
 
 
-**30/01/2024 - January meetup**
+{% capture notice-text %} **30/01/2024 - January meetup**
 
 - 17u30 - 18u30 : Opening reception with something to drink and a small bite
 - 18u30 - 19u15 : PowerShell & Microsoft Graph from Scratch
