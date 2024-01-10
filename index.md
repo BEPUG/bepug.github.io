@@ -37,8 +37,6 @@ Hosted by [Axxes](https://www.axxes.com/) at [Meetdistrict Ghent](https://www.me
 [Register here!](https://bepug.odoo.com/event){: .btn btn--large .btn--info}
 
 
-
-[Want to speak?](https://sessionize.com/bepug){: .btn btn--large .btn--info} [Suggest a location](https://github.com/BEPUG/meetups/issues/new?template=Location-proposal.md){: .btn btn--large .btn--info}
 {% endcapture %}
 
 <div class="notice--primary">
@@ -47,6 +45,7 @@ Hosted by [Axxes](https://www.axxes.com/) at [Meetdistrict Ghent](https://www.me
 
 
 <br />
+[Want to speak?](https://sessionize.com/bepug){: .btn btn--large .btn--info} [Suggest a location](https://github.com/BEPUG/meetups/issues/new?template=Location-proposal.md){: .btn btn--large .btn--info}
 <br />
 <br />
 <br />
