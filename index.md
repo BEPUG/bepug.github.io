@@ -28,7 +28,7 @@ If you have any questions, just reach out to any of the [organizers](/about#Orga
 - 18u30 - 19u15 : PowerShell & Microsoft Graph from Scratch
             by [Merlijn Van Waeyenberghe](https://www.linkedin.com/in/merlinvw/) & [Xavier Clinquart](https://www.linkedin.com/in/xavier-clinquart-722665a5/)
 - 19u15 - 19u45 : Dinner break 
-- 19u45 - 20u30 : topic and speaker to be confirmed
+- 19u45 - 20u30 : Next-Level PowerShell Automation in 6 easy steps by [Heiko Brenn](https://www.linkedin.com/in/heikobrenn/)
 - 20u30 - ... : Networking and drinks
 
 
@@ -45,20 +45,24 @@ Hosted by [Axxes](https://www.axxes.com/) at [Meetdistrict Ghent](https://www.me
   {{ notice-text | markdownify }}
 </div>
 
-## Join the mailing list
 
-<div id="mc_embed_signup"><form id="mc-embedded-subscribe-form" class="validate" action="https://github.us19.list-manage.com/subscribe/post?u=6e99ec2454950d642390b574f&amp;id=0dd16578ab" method="post" style="background-color: #FFFFFF;">
+<br />
+<br />
+<br />
+<br />
+<br />
+<div id="Sponsors">
 <table cellspacing="2" cellpadding="2" style="border: 0px;">
 <tbody>
 <tr>
-<td style="border: 0px"><input id="mce-EMAIL" name="EMAIL" type="text" placeholder="Your e-mail"></td>
-<td style="border: 0px"><input id="mce-FNAME" name="FNAME" type="text" placeholder="Your firstname"></td>
-<td style="border: 0px"><input id="mce-LNAME" name="LNAME" type="text" placeholder="Your lastname"></td>
-</tr>
-<tr style="border: 0px">
-<td colspan="2" style="border: 0px"><p>You hearby confirm that your email may be used to inform you of all future events</p></td>
-<td style="text-align: right; border: 0px"><input id="mc-embedded-subscribe" class="btn btn--large btn--info" name="subscribe" type="submit" value="Subscribe"></td>
-</tr>
+<td style="border: 0px"><a href="https://www.axxes.com">
+  <img src="/assets/images/Sponsorlogos/Logo_Axxes-RGB.png" alt="HTML tutorial" style="width:300px;height:75px;">
+</a>
+</td>
+<td style="border: 0px"><a href="https://www.scriptrunner.com">
+  <img src="/assets/images/Sponsorlogos/scriptrunner-logo.png" alt="HTML tutorial" style="width:300px;height:75px;">
+</a>
+</td>
 </tbody>
 </table>
 </form></div>
