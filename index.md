@@ -53,7 +53,7 @@ Hosted by [Axxes](https://www.axxes.com/) at [Meetdistrict Ghent](https://www.me
 <br />
 ## Our sponsors
 <div id="Sponsors">
-<table cellspacing="0" cellpadding="0" style="border: 0px;">
+<table cellspacing="0" cellpadding="5" style="border: 0px;">
 <tbody>
 <tr>
 <td style="border: 0px"><a href="https://www.axxes.com">
