@@ -52,6 +52,8 @@ Hosted by [Axxes](https://www.axxes.com/) at [Meetdistrict Ghent](https://www.me
 <br />
 <br />
 <div id="Sponsors">
+{% capture notice-text %} **Our sponsors**
+{% endcapture %}
 <table cellspacing="2" cellpadding="2" style="border: 0px;">
 <tbody>
 <tr>
@@ -63,6 +65,7 @@ Hosted by [Axxes](https://www.axxes.com/) at [Meetdistrict Ghent](https://www.me
   <img src="/assets/images/Sponsorlogos/scriptrunner-logo.png" alt="HTML tutorial" style="width:300px;height:75px;">
 </a>
 </td>
+</tr>
 </tbody>
 </table>
 </form></div>
