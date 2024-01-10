@@ -64,6 +64,10 @@ Hosted by [Axxes](https://www.axxes.com/) at [Meetdistrict Ghent](https://www.me
   <img src="/assets/images/Sponsorlogos/scriptrunner-logo.png" style="width:300px;height:75px;">
 </a>
 </td>
+<td style="border: 0px"><a href="https://synedgy.com/">
+  <img src="/assets/images/Sponsorlogos/Logo-Small-Text-128px.png">
+</a>
+</td>
 </tr>
 </tbody>
 </table>
