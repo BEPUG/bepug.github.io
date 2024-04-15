@@ -22,17 +22,11 @@ If you have any questions, just reach out to any of the [organizers](/about#Orga
 ## Upcoming events
 
 
-{% capture notice-text %} **30/01/2024 - January meetup**
+{% capture notice-text %} **30/04/2024 - April Online meetup**
 
-- 17u30 - 18u30 : Opening reception with something to drink and a small bite
-- 18u30 - 19u15 : PowerShell & Microsoft Graph from Scratch
-            by [Merlijn Van Waeyenberghe](https://www.linkedin.com/in/merlinvw/) & [Xavier Clinquart](https://www.linkedin.com/in/xavier-clinquart-722665a5/)
-- 19u15 - 19u45 : Dinner break 
-- 19u45 - 20u30 : Next-Level PowerShell Automation in 6 easy steps by [Heiko Brenn](https://www.linkedin.com/in/heikobrenn/)
-- 20u30 - ... : Networking and drinks
+18:00-19:00 : PowerShell Performance and Technique Tweaks by [Christian Ritter](https://www.linkedin.com/in/christian-ritter-9661a41b2/)
 
-
-Hosted by [Axxes](https://www.axxes.com/) at [Meetdistrict Ghent](https://www.meetdistrict.com/nl/meetdistrict/Gent) <br />
+Hosted by BEPUG online at PSWORLD <br />
 
 [Register here!](https://bepug.odoo.com/event){: .btn btn--large .btn--info}
 
