@@ -22,13 +22,23 @@ If you have any questions, just reach out to any of the [organizers](/about#Orga
 ## Upcoming events
 
 
-{% capture notice-text %} **30/04/2024 - April Online meetup**
+{% capture notice-text %} **03/10/2024 - October in person meetup**
 
-18:00-19:00 : PowerShell Performance and Technique Tweaks by [Christian Ritter](https://www.linkedin.com/in/christian-ritter-9661a41b2/)
+We invite you to our October in-person event in the offices of Aarixa! As always our event is free for all to join. We'll say a few introductory words and hand the mic to our wonderful speaker of the evening Chrissy LeMaire. Well know PowerShell enthusiast ,  Dual MVP, GitHub Star and AI Toolmaker!
 
-Hosted by BEPUG online at PSWORLD <br />
 
-[Register here!](https://bepug.odoo.com/event){: .btn btn--large .btn--info}
+
+Hosted by BEPUG at the offices of our amazing sponsor Aarixa in Herk-de-Stad <br />
+
+17u30 - 18u15 : Opening reception with something to drink and a small bite
+18u15 - 19u00 : AI Demystified  by Chrissy LeMaire
+19u00 - 19u30 : Dinner break 
+19u30 - 20u15 : AI-Integration in PowerShell  by Chrissy LeMaire
+20u15 - ... : Networking and drinks
+
+[Registration and extra info => Click here!](https://bepug.odoo.com/event){: .btn btn--large .btn--info}
+
+
 
 
 {% endcapture %}
@@ -51,6 +61,11 @@ Hosted by BEPUG online at PSWORLD <br />
 </td>
 <td style="border: 0px"><a href="https://synedgy.com/">
   <img src="/assets/images/Sponsorlogos/Logo-Small-Text-128px.png">
+</a>
+</td>
+</td>
+<td style="border: 0px"><a href="https://www.aarixa.be">
+  <img src="/assets/images/Sponsorlogos/Aarixa_Logo_RGB.png">
 </a>
 </td>
 </tr>
