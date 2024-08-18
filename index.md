@@ -64,7 +64,7 @@ Hosted by BEPUG at the offices of our amazing sponsor Aarixa in Herk-de-Stad <br
 </a>
 </td>
 <td style="border: 0px"><a href="https://www.aarixa.be">
-  <img src="/assets/images/Sponsorlogos/Aarixa_Logo_RGB.png">
+  <img src="/assets/images/Sponsorlogos/Aarixa_Logo_RGB.png" style="width:300px;height:75px;>
 </a>
 </td>
 </tr>
