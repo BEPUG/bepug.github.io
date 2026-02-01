@@ -24,16 +24,17 @@ If you have any questions, just reach out to any of the [organizers](/about#Orga
 
 {% capture notice-text %} **06/03/2025 - March in person meetup**
 
-We invite you to our March in-person event in the offices of our returning sponsor Axxes! As always our event is free for all to join. We'll say a few introductory words and hand the mic to our wonderful speakers of the evening [Bruno Buyck](https://www.linkedin.com/in/brunobuyck) and [Dieter De Smet](https://www.linkedin.com/in/dieter-de-smet-46842210b/). Both fantastic PowerShell enthusiasts ready to share their knowledge with us all!
+We are delighted to invite you to the first BEPUG in-person meeting of 2026! As always, this event is completely free and open to everyone. 
+After a brief introduction, we will hand the stage over to our esteemed speaker(s). Join us to connect, learn, and start the new year together with the BEPUG community.  
 
 
 
 Hosted by BEPUG at the offices of our amazing sponsor Axxes in Antwerp <br />
 
 17u30 - 18u15 : Opening reception with something to drink and a small bite<br />
-18u15 - 19u00 : Unleashing Automation Power: From Scripts to Stunning Dashboards with PowerShell Universal by [Dieter De Smet](https://www.linkedin.com/in/dieter-de-smet-46842210b/)<br />
+18u15 - 19u00 : Getting Started with JEA by [Bart Verhoeven]<br />
 19u00 - 19u30 : Dinner break <br />
-19u30 - 20u15 : Performance tuning tipe and tricks by [Bruno Buyck](https://www.linkedin.com/in/brunobuyck)<br />
+19u30 - 20u15 : TBD<br />
 20u15 - ... : Networking and drinks<br />
 
 [Registration and extra info => Click here!](https://bepug.odoo.com/event){: .btn btn--large .btn--info}
@@ -57,10 +58,6 @@ Hosted by BEPUG at the offices of our amazing sponsor Axxes in Antwerp <br />
 </td>
 <td style="border: 0px"><a href="https://synedgy.com/">
   <img src="/assets/images/Sponsorlogos/Logo-Small-Text-128px.png">
-</a>
-</td>
-<td style="border: 0px"><a href="https://www.aarixa.be">
-  <img src="/assets/images/Sponsorlogos/Aarixa_Logo_RGB.png" style="width:300px;height:75px;">
 </a>
 </td>
 </tr>
