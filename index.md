@@ -22,7 +22,7 @@ If you have any questions, just reach out to any of the [organizers](/about#Orga
 ## Upcoming events
 
 
-{% capture notice-text %} **06/03/2025 - March in person meetup**
+{% capture notice-text %} **17/03/2026 - BEPUGs March in person meetup**
 
 We are delighted to invite you to the first BEPUG in-person meeting of 2026! As always, this event is completely free and open to everyone. 
 After a brief introduction, we will hand the stage over to our esteemed speaker(s). Join us to connect, learn, and start the new year together with the BEPUG community.  
@@ -32,9 +32,9 @@ After a brief introduction, we will hand the stage over to our esteemed speaker(
 Hosted by BEPUG at the offices of our amazing sponsor Axxes in Antwerp <br />
 
 17u30 - 18u15 : Opening reception with something to drink and a small bite<br />
-18u15 - 19u00 : Getting Started with JEA by [Bart Verhoeven]<br />
+18u15 - 19u00 : Getting Started with JEA - [Bart Verhoeven]<br />
 19u00 - 19u30 : Dinner break <br />
-19u30 - 20u15 : TBD<br />
+19u30 - 20u15 : Creating API Calls in PowerShell - [Dieter De Smet] (https://www.linkedin.com/in/dieter-de-smet-46842210b/)<br />
 20u15 - ... : Networking and drinks<br />
 
 [Registration and extra info => Click here!](https://bepug.odoo.com/event){: .btn btn--large .btn--info}
