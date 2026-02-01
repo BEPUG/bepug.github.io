@@ -29,7 +29,7 @@ After a brief introduction, we will hand the stage over to our esteemed speaker(
 
 
 
-Hosted by BEPUG at the offices of our amazing sponsor Axxes in Antwerp <br />
+Hosted by BEPUG at the offices of our amazing sponsor Axxes in Ghent <br />
 
 17u30 - 18u15 : Opening reception with something to drink and a small bite<br />
 18u15 - 19u00 : Getting Started with JEA - [Bart Verhoeven]<br />
