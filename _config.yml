@@ -227,7 +227,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-archive
+  #- jekyll-archive
 
 
 # Archives
