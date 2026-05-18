@@ -11,9 +11,8 @@ author_profile: false
 If you open this page you commit to our great contest for PSCONFEU of 2026.
 Enjoy the contest. 
 
-```ps1
-
-get-aduser test
-
+```powershell
+get-aduser "test"
+```
 
 THEN I GO ON
