@@ -14,3 +14,6 @@ Enjoy the contest!
 ```powershell
 Get-ADUser -Identity "test"
 ```
+
+## Contest Rules
+Here comes the rules
