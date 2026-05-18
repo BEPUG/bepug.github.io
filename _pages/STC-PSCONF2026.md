@@ -14,4 +14,6 @@ Enjoy the contest.
 ```ps1
 
 get-aduser test
-```
+
+
+THEN I GO ON
