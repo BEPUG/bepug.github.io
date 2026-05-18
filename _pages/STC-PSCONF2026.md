@@ -13,4 +13,4 @@ Enjoy the contest!
 
 ```powershell
 Get-ADUser -Identity "test"
-` ` `
+```
