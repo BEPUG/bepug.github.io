@@ -17,7 +17,3 @@ get-aduser "test"
 get-process
 
 ```
-
-THEN I GO ON
-
-Now nez things
