@@ -12,8 +12,10 @@ If you open this page you commit to our great contest for PSCONFEU of 2026.
 Enjoy the contest. 
 
 ```powershell
+
 get-aduser "test"
 get-process
+
 ```
 
 THEN I GO ON
