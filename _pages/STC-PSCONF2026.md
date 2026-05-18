@@ -6,6 +6,7 @@ permalink: /stc-psconfeu2026
 author_profile: false
 ---
 
-# Welcome
+## Welcome to our contest
 
-HERE YOU CAN FIND THE DETAILS OF THE CONTEST
+If you open this page you commit to our great contest for PSCONFEU of 2026.
+Enjoy the contest. 
