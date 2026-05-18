@@ -18,6 +18,8 @@ Here comes the rules
 *   ✅ No external modules
 *   ✅ PowerShell 5.1 or higher
 *   ❌ No shortening of the urls is allowed
+*   🏆 Top 3 fastest solutions win!
+*   🎲 In the case of a tie, we’ll use `Get-Random` to determine the winner.
 *   Mail your shorten result to bepug@bepug.be
 
 
