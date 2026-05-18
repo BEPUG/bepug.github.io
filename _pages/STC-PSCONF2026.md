@@ -11,6 +11,16 @@ author_profile: false
 If you open this page you commit to our great contest for PSCONFEU 2026.  
 Enjoy the contest!
 
+## Contest Rules
+Here comes the rules
+
+*   ✅ Output must be IDENTICAL
+*   ✅ No external modules
+*   ✅ PowerShell 5.1 or higher
+
+
+## The Code
+
 ```powershell
 # BEPUG - PSConfEU 2025 Wiesbaden - SHORTEN THE CODE CONTEST
 # Rules:
@@ -18,9 +28,6 @@ Enjoy the contest!
 #   ✅ No external modules
 #   ✅ PowerShell 5.1 or higher
 #   ⏰ 3 DAYS ONLY!
-
-# Edinburgh is in Scotland which is part of United Kingdom
-# API Country name = United Kingdom, Display name = Scotland/UK
 
 $psconfeuEditions = @(
     [PSCustomObject]@{ Year = 2014; City = 'Amsterdam';  Country = 'Netherlands';    APIName = 'Netherlands'    }
@@ -119,6 +126,3 @@ Write-Output "📊 Physical Editions : $(($fullReport | Where-Object {$_.Country
 Write-Output "💻 Online Editions   : $(($fullReport | Where-Object {$_.Country -eq 'Online'}).Count)"
 Write-Output "📅 Total Editions    : $($fullReport.Count)"
 ```
-
-## Contest Rules
-Here comes the rules
