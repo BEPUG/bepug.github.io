@@ -17,6 +17,7 @@ Here comes the rules
 *   ✅ Output must be IDENTICAL
 *   ✅ No external modules
 *   ✅ PowerShell 5.1 or higher
+*   ❌ No shortening of the urls is allowed
 *   Mail your shorten result to bepug@bepug.be
 
 
