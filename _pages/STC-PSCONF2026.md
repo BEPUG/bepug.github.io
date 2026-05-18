@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Shorten the Code 2026 PSCONFEU Contest"
+title: "Shorten-the-Code 2026 PSCONFEU Contest"
 date: 2026-06-04
 permalink: /stc-psconfeu2026
 author_profile: false
@@ -22,12 +22,6 @@ Here comes the rules
 ## The Code
 
 ```powershell
-# BEPUG - PSConfEU 2025 Wiesbaden - SHORTEN THE CODE CONTEST
-# Rules:
-#   ✅ Output must be IDENTICAL
-#   ✅ No external modules
-#   ✅ PowerShell 5.1 or higher
-#   ⏰ 3 DAYS ONLY!
 
 $psconfeuEditions = @(
     [PSCustomObject]@{ Year = 2014; City = 'Amsterdam';  Country = 'Netherlands';    APIName = 'Netherlands'    }
