@@ -6,5 +6,6 @@ permalink: /stc-psconfeu2026
 author_profile: false
 ---
 
-#TEST
-This is q test
+# Welcome
+
+HERE YOU CAN FIND THE DETAILS OF THE CONTEST
