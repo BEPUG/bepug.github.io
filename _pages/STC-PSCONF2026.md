@@ -14,7 +14,7 @@ Enjoy the contest!
 ## Contest Rules
 Here comes the rules
 
-*   ✅ Output must be IDENTICAL
+*   ✅ Output must be *IDENTICAL*
 *   ✅ No external modules
 *   ✅ PowerShell 5.1 or higher
 *   ❌ No shortening of the urls is allowed
