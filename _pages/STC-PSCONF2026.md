@@ -69,7 +69,8 @@ Your mission is clear:
 | ❌ | **No shortening of URLs** is allowed |
 | 🏆 | **Top 3 shortest** solutions win! |
 | 🎲 | In case of a tie, we'll use `Get-Random` to determine the winner |
-| 📧 | Mail your shortened solution to **[bepug@bepug.be](mailto:bepug@bepug.be)** |
+| 📧 | Mail your shortened solution to **[bepug@bepug.be](mailto:bepug@bepug.be)**: |
+|    | Do not forget to send your name and your country within the mail.|
 
 ---
 
