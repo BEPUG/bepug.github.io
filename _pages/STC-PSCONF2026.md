@@ -258,15 +258,5 @@ Write-Output "======================================================"
 ---
 
 > 💡 **Tip:** Copy the code above, shorten it in your editor, and verify that the output is **identical** before submitting!
->
-> 📧 Send your solution to **[bepug@bepug.be](mailto:bepug@bepug.be)**
 
 ---
-
-<div align="center">
-
-[![BEPUG](https://img.shields.io/badge/Community-BEPUG-blue?style=for-the-badge)](https://bepug.be)
-[![PSCONFEU](https://img.shields.io/badge/Event-PSCONFEU%202026-orange?style=for-the-badge)](https://psconf.eu)
-[![PowerShell](https://img.shields.io/badge/PowerShell-Contest-5391FE?style=for-the-badge&logo=powershell)](https://github.com/PowerShell/PowerShell)
-
-</div>
