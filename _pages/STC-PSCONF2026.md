@@ -6,27 +6,94 @@ permalink: /stc-psconfeu2026
 author_profile: false
 ---
 
-## Welcome to our contest
+## 🏆 PSCONFEU Contest — BEPUG
 
-If you open this page you commit to our great contest for PSCONFEU 2026.  
-Enjoy the contest!
+> *Welcome to our official contest page!*
 
-## Contest Rules
-Here comes the rules
+---
 
-*   ✅ Output must be **IDENTICAL**
-*   ✅ No external modules
-*   ✅ PowerShell 5.1 or higher
-*   ❌ No shortening of the urls is allowed
-*   🏆 Top 3 fastest solutions win!
-*   🎲 In the case of a tie, we’ll use `Get-Random` to determine the winner.
-*   Mail your shorten result to bepug@bepug.be
+## 👋 Welcome!
 
+You've opened this page — which means you're accepting the challenge. **Thank you!** 🎉
 
-## The Code
+---
+
+## 🙏 Special Thanks
+
+First and foremost, we want to give a big thank you to **PSCONFEU** for allowing us to organize a contest again this year!
+
+---
+
+## 🎯 The Challenge: Shorten-the-Code
+
+This year we are once again hosting a **Shorten-the-Code** contest — but this time with an extra level of difficulty!
+
+As you will notice, we are playing into the **10th Anniversary of PSCONFEU** 🎂  
+We want to bring the statistics of this milestone to life... in PowerShell code.
+
+> *We hope that, just like every year, you will find this contest a fun and exciting experience!*
+
+---
+
+## 📋 What do you need to do?
+
+Your mission is clear:
+
+- ✂️ **Shorten the existing code** without changing the output
+- 📊 The code displays statistics around the **10 editions of PSCONFEU**
+- 🏅 The **3 shortest and correct** solutions win!
+
+---
+
+## ⏰ Deadline
+
+| | Date & Time |
+|---|---|
+| 🟢 **Start** | Monday *(Live moment)* |
+| 🔴 **End** | Wednesday **3rd of June 2026 — 18:00 CET** |
+
+> ⚠️ Submissions received after the deadline will **not** be considered.
+
+---
+
+## 📜 Rules
+
+> ‼️ **Please read the rules carefully before participating!**
+
+| | Rule |
+|---|---|
+| ✅ | Output must be **IDENTICAL** to the original |
+| ✅ | **No external modules** allowed |
+| ✅ | The code must run on both **PS5 and PS7** |
+| ✅ | All outputs must still be present — **exact result** as the start code |
+| ❌ | **No shortening of URLs** is allowed |
+| 🏆 | **Top 3 shortest** solutions win! |
+| 🎲 | In case of a tie, we'll use `Get-Random` to determine the winner |
+| 📧 | Mail your shortened solution to **[bepug@bepug.be](mailto:bepug@bepug.be)** |
+
+---
+
+## 🏁 Results
+
+At the end of the **10th edition of PSCONFEU**, we will announce and share the results with all participants.
+
+Stay tuned for the announcement! 👀
+
+---
+
+## 💬 Good Luck!
+
+> *Enjoy the contest and good luck to everyone!*  
+> — **The BEPUG Team** 🇧🇪⚡
+
+---
+
+## 🚀 The Challenge Code
+
+> ⬇️ **This is the code you need to shorten — good luck!**  
+> The output must remain **identical** to the original.
 
 ```powershell
-
 [Console]::OutputEncoding = [System.Text.Encoding]::UTF8
 $OutputEncoding = [System.Text.Encoding]::UTF8
 
@@ -187,3 +254,19 @@ Write-Output "Total Editions       : $($fullReport.Count)"
 Write-Output "Unique Countries     : $($countryStats.Count)"
 Write-Output "======================================================"
 ```
+
+---
+
+> 💡 **Tip:** Copy the code above, shorten it in your editor, and verify that the output is **identical** before submitting!
+>
+> 📧 Send your solution to **[bepug@bepug.be](mailto:bepug@bepug.be)**
+
+---
+
+<div align="center">
+
+[![BEPUG](https://img.shields.io/badge/Community-BEPUG-blue?style=for-the-badge)](https://bepug.be)
+[![PSCONFEU](https://img.shields.io/badge/Event-PSCONFEU%202026-orange?style=for-the-badge)](https://psconf.eu)
+[![PowerShell](https://img.shields.io/badge/PowerShell-Contest-5391FE?style=for-the-badge&logo=powershell)](https://github.com/PowerShell/PowerShell)
+
+</div>
