@@ -14,7 +14,7 @@ author_profile: false
 
 ## 👋 Welcome!
 
-You've opened this page — which means you're accepting the challenge. **Thank you!** 🎉
+You've opened this page, which means you're accepting the challenge. **Thank you!** 🎉
 
 ---
 
@@ -26,10 +26,10 @@ First and foremost, we want to give a big thank you to **PSCONFEU** for allowing
 
 ## 🎯 The Challenge: Shorten-the-Code
 
-This year we are once again hosting a **Shorten-the-Code** contest — but this time with an extra level of difficulty!
+This year we are once again hosting a **Shorten-the-Code** contest, but this time with an extra level of difficulty!
 
-As you will notice, we are playing into the **10th Anniversary of PSCONFEU** 🎂  
-We want to bring the statistics of this milestone to life... in PowerShell code.
+As you’ll notice, we’re celebrating the **10th Anniversary of PSCONFEU** 🎂
+To mark this milestone, we want to bring the event’s statistics to life… through PowerShell code.
 
 > *We hope that, just like every year, you will find this contest a fun and exciting experience!*
 
@@ -40,7 +40,7 @@ We want to bring the statistics of this milestone to life... in PowerShell code.
 Your mission is clear:
 
 - ✂️ **Shorten the existing code** without changing the output
-- 📊 The code displays statistics around the **10 editions of PSCONFEU**
+- 📊 The code displays statistics about the **10 editions of PSCONFEU**
 - 🏅 The **3 shortest and correct** solutions win!
 
 ---
@@ -51,6 +51,7 @@ Your mission is clear:
 |---|---|
 | 🟢 **Start** | Monday *(Live moment)* |
 | 🔴 **End** | Wednesday **3rd of June 2026 — 18:00 CET** |
+| 🏆 **Awards**| Thursday |
 
 > ⚠️ Submissions received after the deadline will **not** be considered.
 
@@ -68,7 +69,7 @@ Your mission is clear:
 | ✅ | All outputs must still be present — **exact result** as the start code |
 | ❌ | **No shortening of URLs** is allowed |
 | 🏆 | **Top 3 shortest** solutions win! |
-| 🎲 | In case of a tie, we'll use `Get-Random` to determine the winner |
+| 🎲 | In the event of a tie, we'll use `Get-Random` to determine the winner |
 | 📧 | Mail your shortened solution to **[bepug@bepug.be](mailto:bepug@bepug.be)**: |
 | ➡️ | *Do not forget to send your name and your country within the mail.*|
 
@@ -91,7 +92,7 @@ Stay tuned for the announcement! 👀
 
 ## 🚀 The Challenge Code
 
-> ⬇️ **This is the code you need to shorten — good luck!**  
+> ⬇️ **This is the code you need to shorten**  
 > The output must remain **identical** to the original.
 
 ```powershell
